@@ -1,0 +1,14 @@
+bs4
+beautifulsoup4~=4.11.1
+lxml~=4.9.2
+geopy~=2.3.0
+requests~=2.28.2
+Scrapy~=2.7.1
+itemadapter~=0.7.0
+itemloaders~=1.0.6
+tldextract~=3.4.0
+psycopg2~=2.9.5
+selenium~=4.8.0
+scrapy-rotating-proxies
+pandas
+price-parser
